@@ -14,8 +14,8 @@ I am currently pursuing my masters in Embedded Systems and Internet of Things at
 [![dhirajbennadi GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dhirajbennadi&count_private=true&theme=tokyonight&showicons=true)]()
 
 ### Typing Speed
-Date of Speed Record: 22nd February 2022
-![TypingSpeed](https://github.com/dhirajbennadi/dhirajbennadi/blob/main/Screenshots/DhirajBennadiTypingSpeed.png)
+Date of Speed Record: 22nd February 2022\
+![TypingSpeed](https://github.com/dhirajbennadi/dhirajbennadi/blob/main/Screenshots/DhirajBennadiTypingSpeed.png)\
 
-Typing speed to achieve by the end of 2022
+Typing speed to achieve by the end of 2022\
 # 75 words per minute
