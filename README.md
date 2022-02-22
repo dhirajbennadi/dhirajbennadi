@@ -18,4 +18,4 @@ Date of Speed Record: 22nd February 2022\
 ![TypingSpeed](https://github.com/dhirajbennadi/dhirajbennadi/blob/main/Screenshots/DhirajBennadiTypingSpeed.png)
 
 Typing speed to achieve by the end of 2022\
-# 75 words per minute
+### 75 words per minute
