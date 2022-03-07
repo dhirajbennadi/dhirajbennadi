@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dhiraj Bennadi.:smiley:
+I am Dhiraj Bennadi.:smiley:\
 I am currently pursuing my masters in Embedded Systems and Internet of Things at University of Colorado Boulder
 
 ## Checkout my website : 
