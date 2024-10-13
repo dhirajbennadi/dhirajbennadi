@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Dhiraj Bennadi \n
-Currently working as a Embedded Software Developer in Med-Tech \n
-Hold a Master's Degree in Embedded Systems and Internet of Things from University of Colorado Boulder \n
+I am Dhiraj Bennadi  
+Currently working as a Embedded Software Developer in Med-Tech  
+Hold a Master's Degree in Embedded Systems and Internet of Things from University of Colorado Boulder  
 
 ## Checkout my website : 
 [Personal Website](https://dhirajbennadi.github.io/)
